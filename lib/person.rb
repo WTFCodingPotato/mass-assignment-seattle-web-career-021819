@@ -1,3 +1,4 @@
 class Person
-  #your code here
+  def initialize(some_hash)
+  end
 end
